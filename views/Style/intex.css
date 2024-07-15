@@ -1,0 +1,11 @@
+.navbar{
+    background-color: rgb(47, 47, 118);
+}
+img {
+    border-radius: 50%;
+  }
+
+.card-img-top{
+    width: 100%;
+    height: 18rem;
+}
